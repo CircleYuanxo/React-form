@@ -3,7 +3,7 @@
 [Demo](https://circleyuanxo.github.io/React-form/)
 
 1. Create react App 建置環境
-2. CSS: Style-components
+2. CSS: Styled Components
 
 ## 功能
 
